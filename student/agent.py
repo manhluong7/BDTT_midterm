@@ -99,7 +99,7 @@ class Timeout(Exception):
 
 
 class Agent:
-    name          = "Team_4_Optimized"
+    name          = "Nhóm 4"
     max_depth     = 12
     prob_cut      = 0.0008   # bỏ nhánh có xác suất nhỏ hơn mức này
     time_fraction = 0.85     # chỉ dùng 85% thời gian cho phép
